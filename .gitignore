@@ -1,2 +1,5 @@
 datasets
 datasets/*.zip
+downloaded_pdf/*.pdf
+extract_images/*.jpg
+cropped_text_images/*.png
