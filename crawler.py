@@ -1,8 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from tqdm import tqdm
 
 # Create a new instance of the Chrome web driver
-driver = webdriver.Chrome()
+chrome_options = webdriver.ChromeOptions()
+prefs = {"download.default_directory": "/home/hungtrieu07/Downloads/vietnamese-ocr/downloaded_pdf"}
+chrome_options.add_experimental_option('prefs', prefs)
+driver = webdriver.Chrome(options=chrome_options)
 
 # Open a new tab
 driver.execute_script("window.open('', '_blank');")
@@ -13,13 +17,17 @@ driver.get(
     "https://www.thudo.gov.vn/documentlist.aspx?lvb=a6da96dd-8e49-1b4b-b641-00bff73c688a")
 
 page_count = 811    # Số tự set bằng tay
-print(page_count)
+
+# Initialize tqdm for tracking page progress
+page_progress_bar = tqdm(total=page_count, desc='Processing Page', unit='page')
 
 # Loop through each page
 for page in range(1, page_count + 1):
     # Find all the elements with class "vanbanitem_sovanban" on the current page
     elements = driver.find_elements(By.CLASS_NAME, "vanbanitem_sovanban")
-    print(len(elements))
+
+    element_progress_bar = tqdm(
+        total=len(element), desc='Processing Elements', unit='element')
 
     # Loop through each element on the current page
     for i in range(len(elements)):
@@ -48,6 +56,10 @@ for page in range(1, page_count + 1):
             # Find the PDF download link inside the <li> tag
             driver.execute_script("window.history.go(-1)")
 
+        element_progress_bar.update(1)
+
+    element_progress_bar.close()
+
     if page < page_count:
         # Find the ">" link and click it
         next_page_link = driver.find_element(
@@ -59,6 +71,10 @@ for page in range(1, page_count + 1):
 
     # Re-find the elements for the next page
     elements = driver.find_elements(By.CLASS_NAME, "vanbanitem_sovanban")
+
+    page_progress_bar.update(1)
+
+page_progress_bar.close()
 
 # Close the tab with the document page
 driver.close()
