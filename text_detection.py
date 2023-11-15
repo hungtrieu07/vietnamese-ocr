@@ -1,5 +1,6 @@
 import glob
 import os
+import uuid
 
 import cv2
 from paddleocr import PaddleOCR
@@ -47,9 +48,10 @@ for image_path in image_files:
         texts = []
         for box in boxes:
             cropped_image = img[box[0][1]: box[1][1], box[0][0]: box[1][0]]
+            random_filename = str(uuid.uuid4())[:8]
             output_path = os.path.join(
                 output_dir,
-                f"cropped_text_{box[0][0]}_{box[0][1]}_{box[1][0]}_{box[1][1]}.jpg",
+                f"cropped_text_{random_filename}.jpg",
             )
             cv2.imwrite(output_path, cropped_image)
     except Exception as e:
