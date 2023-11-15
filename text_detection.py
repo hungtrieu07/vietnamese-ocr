@@ -8,9 +8,11 @@ from tqdm import tqdm
 # Initialize PaddleOCR
 ocr = PaddleOCR()
 
-image_files = glob.glob("/home/hungtrieu07/Downloads/datasets/vietnamese_ocr/extract_images/*.jpg")
+image_files = glob.glob(
+    "/home/hungtrieu07/Downloads/data_ho_tich/output_image/*.jpg")
 
-progress_bar = tqdm(total=len(image_files), desc='Processing images', unit='file')
+progress_bar = tqdm(total=len(image_files),
+                    desc="Processing images", unit="file")
 
 for image_path in image_files:
     try:
@@ -22,13 +24,16 @@ for image_path in image_files:
         result = result[:][:][0]
 
         # Create a directory to save cropped text images
-        output_dir = 'cropped_text_images_2'
+        output_dir = "cropped_text_images"
         os.makedirs(output_dir, exist_ok=True)
 
         # Create Boxes
         boxes = []
         for line in result:
-            boxes.append([[int(line[0][0]), int(line[0][1])], [int(line[2][0]), int(line[2][1])]])
+            boxes.append(
+                [[int(line[0][0]), int(line[0][1])], [
+                    int(line[2][0]), int(line[2][1])]]
+            )
 
         boxes = boxes[::-1]
 
@@ -41,12 +46,15 @@ for image_path in image_files:
 
         texts = []
         for box in boxes:
-            cropped_image = img[box[0][1]:box[1][1], box[0][0]:box[1][0]]
-            output_path = os.path.join(output_dir, f'cropped_text_{box[0][0]}_{box[0][1]}_{box[1][0]}_{box[1][1]}.png')
+            cropped_image = img[box[0][1]: box[1][1], box[0][0]: box[1][0]]
+            output_path = os.path.join(
+                output_dir,
+                f"cropped_text_{box[0][0]}_{box[0][1]}_{box[1][0]}_{box[1][1]}.png",
+            )
             cv2.imwrite(output_path, cropped_image)
-            progress_bar.update(1)
     except Exception as e:
         print(str(e))
         pass
+    progress_bar.update(1)
 
 progress_bar.close()

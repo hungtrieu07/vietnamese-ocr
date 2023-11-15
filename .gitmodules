@@ -1,0 +1,6 @@
+[submodule "PaddleOCR"]
+	path = PaddleOCR
+	url = https://github.com/PaddlePaddle/PaddleOCR
+[submodule "vietocr"]
+	path = vietocr
+	url = https://github.com/pbcquoc/vietocr
