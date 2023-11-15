@@ -4,3 +4,7 @@
 ```
 git clone --recurse-submodules https://github.com/hungtrieu07/vietnamese-ocr
 ```
+# Cài đặt môi trường (khuyến khích sử dụng Miniconda)
+```
+conda env create -f environment.yml
+```
