@@ -4,3 +4,5 @@ downloaded_pdf/*.pdf
 extract_images/*.jpg
 cropped_text_images/*.png
 *.zip
+cropped_text_images
+cropped_text_images/*.*

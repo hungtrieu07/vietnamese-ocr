@@ -9,7 +9,7 @@ from tqdm import tqdm
 ocr = PaddleOCR()
 
 image_files = glob.glob(
-    "datasets/original_image/output_image/*.jpg")
+    "G:/datasets/original_image/output_image/*.jpg")
 
 progress_bar = tqdm(total=len(image_files),
                     desc="Processing images", unit="file")
