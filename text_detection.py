@@ -9,7 +9,7 @@ from tqdm import tqdm
 ocr = PaddleOCR()
 
 image_files = glob.glob(
-    "/home/hungtrieu07/Downloads/data_ho_tich/output_image/*.jpg")
+    "datasets/original_image/output_image/*.jpg")
 
 progress_bar = tqdm(total=len(image_files),
                     desc="Processing images", unit="file")
@@ -49,11 +49,10 @@ for image_path in image_files:
             cropped_image = img[box[0][1]: box[1][1], box[0][0]: box[1][0]]
             output_path = os.path.join(
                 output_dir,
-                f"cropped_text_{box[0][0]}_{box[0][1]}_{box[1][0]}_{box[1][1]}.png",
+                f"cropped_text_{box[0][0]}_{box[0][1]}_{box[1][0]}_{box[1][1]}.jpg",
             )
             cv2.imwrite(output_path, cropped_image)
     except Exception as e:
-        print(str(e))
         pass
     progress_bar.update(1)
 
