@@ -1,8 +1,7 @@
 import glob
 
 from pdf2image import convert_from_path
-from pdf2image.exceptions import (PDFInfoNotInstalledError, PDFPageCountError,
-                                  PDFSyntaxError)
+from pdf2image.exceptions import (PDFInfoNotInstalledError, PDFPageCountError, PDFSyntaxError)
 from tqdm import tqdm
 
 # Get a list of all PDF files in the directory

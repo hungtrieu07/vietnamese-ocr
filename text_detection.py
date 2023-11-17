@@ -10,7 +10,7 @@ from tqdm import tqdm
 ocr = PaddleOCR()
 
 image_files = glob.glob(
-    "G:/datasets/original_image/output_image/*.jpg")
+    "../datasets/pdf_extracted_vi/*.jpg")
 
 progress_bar = tqdm(total=len(image_files),
                     desc="Processing images", unit="file")
@@ -25,7 +25,7 @@ for image_path in image_files:
         result = result[:][:][0]
 
         # Create a directory to save cropped text images
-        output_dir = "cropped_text_images"
+        output_dir = "../datasets/cropped_text_images_2"
         os.makedirs(output_dir, exist_ok=True)
 
         # Create Boxes
