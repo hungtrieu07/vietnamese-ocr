@@ -9,24 +9,23 @@ from tqdm import tqdm
 # Initialize PaddleOCR
 ocr = PaddleOCR()
 
+# Create a directory to save cropped text images
+output_dir = "../datasets/cropped_text_images_6"
+os.makedirs(output_dir, exist_ok=True)
+
 image_files = glob.glob(
-    "../datasets/pdf_extracted_vi/*.jpg")
+    "../datasets/folder_6/*.jpg")
 
 progress_bar = tqdm(total=len(image_files),
                     desc="Processing images", unit="file")
 
 for image_path in image_files:
     try:
-        image_name = os.path.basename(image_path)
         img = cv2.imread(image_path)
 
         # Perform text detection
         result = ocr.ocr(img, det=True, rec=False, cls=False)
         result = result[:][:][0]
-
-        # Create a directory to save cropped text images
-        output_dir = "../datasets/cropped_text_images_2"
-        os.makedirs(output_dir, exist_ok=True)
 
         # Create Boxes
         boxes = []
@@ -54,7 +53,7 @@ for image_path in image_files:
                 f"cropped_text_{random_filename}.jpg",
             )
             cv2.imwrite(output_path, cropped_image)
-    except Exception as e:
+    except Exception:
         pass
     progress_bar.update(1)
 

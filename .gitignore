@@ -6,3 +6,4 @@ cropped_text_images/*.png
 *.zip
 cropped_text_images
 cropped_text_images/*.*
+test_data
