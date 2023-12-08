@@ -15,3 +15,9 @@ conda create -n ocr python=3.8
 conda activate ocr
 pip install -r requirement.txt
 ```
+
+Bạn có thể sửa batch size trong file predict.py để tăng tốc dự đoán trên các card đồ họa cao cấp
+
+```python
+batch_size = 16         # 32, 64, 128, 256, 512, 1024, 2048, 4096
+```
