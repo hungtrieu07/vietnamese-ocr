@@ -7,3 +7,4 @@ cropped_text_images/*.png
 cropped_text_images
 cropped_text_images/*.*
 test_data
+annotation.txt
