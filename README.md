@@ -11,5 +11,7 @@ git clone --recurse-submodules https://github.com/hungtrieu07/vietnamese-ocr
 ## Cài đặt môi trường (khuyến khích sử dụng Miniconda)
 
 ```bash
-conda env create -f environment.yml
+conda create -n ocr python=3.8
+conda activate ocr
+pip install -r requirement.txt
 ```
