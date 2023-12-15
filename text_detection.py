@@ -10,14 +10,12 @@ from tqdm import tqdm
 ocr = PaddleOCR()
 
 # Create a directory to save cropped text images
-output_dir = "../datasets/cropped_text_images_6"
+output_dir = "original_image"
 os.makedirs(output_dir, exist_ok=True)
 
-image_files = glob.glob(
-    "../datasets/folder_6/*.jpg")
+image_files = glob.glob("D:\\dev\\datasets\\original_image\\output_image\\*.jpg")
 
-progress_bar = tqdm(total=len(image_files),
-                    desc="Processing images", unit="file")
+progress_bar = tqdm(total=len(image_files), desc="Processing images", unit="file")
 
 for image_path in image_files:
     try:
@@ -31,8 +29,7 @@ for image_path in image_files:
         boxes = []
         for line in result:
             boxes.append(
-                [[int(line[0][0]), int(line[0][1])], [
-                    int(line[2][0]), int(line[2][1])]]
+                [[int(line[0][0]), int(line[0][1])], [int(line[2][0]), int(line[2][1])]]
             )
 
         boxes = boxes[::-1]
@@ -46,15 +43,15 @@ for image_path in image_files:
 
         texts = []
         for box in boxes:
-            cropped_image = img[box[0][1]: box[1][1], box[0][0]: box[1][0]]
+            cropped_image = img[box[0][1] : box[1][1], box[0][0] : box[1][0]]
             random_filename = str(uuid.uuid4())[:8]
             output_path = os.path.join(
                 output_dir,
                 f"cropped_text_{random_filename}.jpg",
             )
             cv2.imwrite(output_path, cropped_image)
-    except Exception:
-        pass
+    except Exception as e:
+        print(e)
     progress_bar.update(1)
 
 progress_bar.close()
