@@ -1,0 +1,1271 @@
+2023-12-18 14:59:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10002).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10076).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10079).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10092).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10124).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10207).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10247).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10250).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10297).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10317).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1033).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10335).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10341).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:00:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10362).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10363).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10396).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10397).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10413).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:00:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10419).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10448).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10466).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10467).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:01:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10511).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10561).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10596).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10620).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10631).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10661).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10688).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:01:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10763).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10782).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1081).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:01:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10812).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10835).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1087).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10916).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:02:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10949).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (10994).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11036).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11089).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11139).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:02:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1114).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:02:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11147).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11262).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:03:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11273).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11288).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:11 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11309).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:03:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11326).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1135).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:03:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11359).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11364).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11393).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11459).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (115).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11508).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11531).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11555).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:03:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11616).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:03:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1162).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11715).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11718).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11763).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11767).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11770).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11806).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11865).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (11876).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1199).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:04:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12003).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12051).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1206).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12077).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12120).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:05:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12131).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12139).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12148).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12156).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12178).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12208).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12213).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12244).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12245).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12258).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12266).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12298).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12306).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:05:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12312).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12321).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12340).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:52 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12362).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:05:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12367).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12428).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12458).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:11 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1247).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12476).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12482).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12487).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1250).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12526).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12528).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12575).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12581).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1263).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12630).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12634).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12641).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12647).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:06:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12656).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12667).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12668).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12695).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:06:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12765).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12802).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:07:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12806).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1282).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:07:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12849).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12875).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12877).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12888).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:07:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12933).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12946).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12950).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12955).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (12961).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13002).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13051).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13069).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13083).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13084).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13092).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13096).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:07:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13152).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13189).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13217).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13236).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13286).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13299).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13384).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13403).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13440).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13502).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:08:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1355).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13557).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:08:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13558).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:08:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13559).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13600).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13711).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13850).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:09:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13858).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13872).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13890).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13923).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13943).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:09:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13965).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (13990).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14006).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14008).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:10:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14010).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14015).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14016).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14051).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1410).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14106).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14134).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14147).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14149).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14211).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14223).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14246).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14298).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1430).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14302).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14318).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14340).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:10:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14341).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14385).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1439).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14408).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14409).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14412).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14423).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:11:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14436).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14443).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14448).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14485).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14504).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14594).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14600).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:11:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14645).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14656).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14666).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:11:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14707).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:11:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14781).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14788).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14799).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14818).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14821).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14825).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:11 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14867).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14892).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14917).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:12:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14919).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14941).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14968).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14983).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (14990).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15047).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15051).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15061).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15118).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15146).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:12:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15172).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:13:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15199).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:13:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15220).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15287).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15374).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:13:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15396).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1540).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15449).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15479).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15485).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15532).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15539).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15546).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:13:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15562).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15590).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:14:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15625).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15635).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15674).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:14:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15695).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:14:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15747).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:14:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15782).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15783).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1582).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1584).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15879).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1590).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:14:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (15949).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16028).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16030).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1606).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16066).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16071).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16089).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16094).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16103).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16115).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16143).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16150).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16162).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16175).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16188).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16208).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16247).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:15:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16282).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:15:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16290).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16376).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16380).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16399).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1640).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16430).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16431).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16517).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16522).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16585).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:16:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16611).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16613).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16622).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:16:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16687).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16802).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16840).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16852).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (169).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16921).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16940).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (16982).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17000).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17009).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17026).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17088).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17095).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17100).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17109).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17122).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:17:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17129).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17155).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:18:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17168).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17180).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17196).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17241).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:18:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17260).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17263).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17265).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17277).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17288).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17303).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:18:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17348).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17353).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17385).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17404).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17405).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1742).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17424).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:18:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17439).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:18:52 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17476).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17520).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17547).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17549).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17557).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17562).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17600).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17688).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17704).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17720).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17723).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17740).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17755).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17796).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:19:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17871).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:19:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17892).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:19:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17897).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (17942).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18010).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:20:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18020).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18042).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18094).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18138).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18188).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:20:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18279).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1829).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:20:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18290).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:20:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18306).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18316).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18325).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18328).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18398).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18414).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18431).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18440).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18452).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18516).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18517).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18525).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18536).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18541).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18569).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:21:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18596).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:49 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18646).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:21:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1868).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:21:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18682).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:21:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18686).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:22:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18717).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18766).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18789).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18802).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18832).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18889).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18943).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:22:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18947).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (18979).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19010).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:22:49 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1903).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:51 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19042).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:22:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19066).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1912).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19158).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19163).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19190).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19206).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19241).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19335).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (19351).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1945).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:23:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (1999).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2114).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2116).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:24:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2132).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2142).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2152).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2174).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2178).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2187).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2195).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:24:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2262).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2272).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2295).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2308).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2313).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2317).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2347).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:24:55 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2395).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:25:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2435).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2472).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2537).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2545).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2587).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2592).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2594).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2602).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:25:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2609).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2761).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:25:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2780).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2855).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:26:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2857).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2897).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2935).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (2991).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3044).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3097).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:26:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3154).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:27:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3264).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:27:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3326).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:27:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3399).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:27:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3433).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:27:51 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3495).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3583).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3585).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:11 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3630).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3728).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3732).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:28:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3775).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3777).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3787).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3817).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:28:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3833).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3845).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3861).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:28:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3881).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3958).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3961).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3967).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3971).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3982).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:29:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (3999).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4027).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4037).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4043).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4077).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4087).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4102).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4137).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4143).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4145).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4285).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:29:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4290).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4326).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4333).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4357).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4380).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4389).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4408).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4410).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4430).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4432).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4438).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4472).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (448).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4481).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4482).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (455).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4556).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:30:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4567).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:43 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4592).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4596).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4603).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4604).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:30:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (467).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4698).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:31:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4699).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:31:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4723).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4729).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4730).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4748).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4766).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (478).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4781).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4838).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:31:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4840).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:31:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4841).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4846).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (486).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4915).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4923).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4956).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4959).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4990).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4991).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (4997).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:51 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5020).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:52 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5025).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5041).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5056).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5063).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:31:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5065).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5119).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5165).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5182).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5245).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5289).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5299).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:32:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (531).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5314).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5347).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:32:52 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5396).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:32:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5417).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:33:13 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (552).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5526).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5545).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5548).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5603).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5609).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5618).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5680).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:40 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5685).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5714).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5717).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5747).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5770).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:33:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5788).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:02 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5821).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5861).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5913).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5948).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5960).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5973).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (5986).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (602).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (603).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:38 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6044).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6067).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6085).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6092).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6142).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6158).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:34:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6165).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:35:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6180).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6210).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6213).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6217).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6242).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:35:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6244).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6245).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6288).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:19 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (630).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:20 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6306).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6337).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6338).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6340).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:35:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (637).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6414).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6436).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6492).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:35:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6535).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6697).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:27 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6716).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6726).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6727).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:32 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6746).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6761).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (68).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6828).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6844).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6893).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:36:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (691).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:00 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6922).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:37:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (693).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6949).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:11 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (6986).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7002).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7082).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (709).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (710).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7121).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7180).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7198).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:37:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7200).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7337).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7468).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7503).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:38:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7504).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7508).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7509).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:37 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7510).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7527).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:41 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7541).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (756).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7567).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:38:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7581).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7686).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7749).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7763).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7806).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7831).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:31 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7842).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7866).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:39:51 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (7976).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8052).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8077).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8097).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:16 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8118).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (813).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8132).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8155).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8157).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (817).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8231).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:39 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8252).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8271).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:40:47 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8300).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:54 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8335).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:40:59 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8366).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8396).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8448).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:12 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (845).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8512).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8516).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8519).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (859).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:42 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8623).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:50 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8677).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:41:57 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8717).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8744).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8757).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:42:05 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (877).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8777).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:10 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (88).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:15 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8826).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8847).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8874).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8878).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:24 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8881).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8905).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8914).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:42:35 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8949).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:36 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (8954).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:42:44 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9008).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:42:48 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9031).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:03 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9121).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:07 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9144).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:43:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (915).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9182).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (92).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9217).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:43:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9225).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:29 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9261).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9285).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:34 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9290).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:43:58 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9433).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9447).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:01 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9449).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9480).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:08 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9489).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (95).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9527).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:44:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9550).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:18 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9552).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:21 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9568).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:22 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9575).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:23 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9581).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:45 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9698).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9703).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:46 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9704).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:53 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9745).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:44:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9760).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:44:56 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9765).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:45:04 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9810).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:06 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9819).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9836).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:09 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9838).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:14 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9866).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:17 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9879).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:25 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9928).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:26 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9936).jpg with description: 'NoneType' object is not iterable
+2023-12-18 15:45:28 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9948).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:30 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9959).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-12-18 15:45:33 ERROR Error at file D:/dev/datasets/original_image/output_image\1 (9975).jpg with description: OpenCV(4.6.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:801: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
