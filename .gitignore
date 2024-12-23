@@ -8,3 +8,12 @@ cropped_text_images
 cropped_text_images/*.*
 test_data
 annotation.txt
+error.log
+data_server
+check_image_text_file.py
+create_data.py
+images
+output
+output.txt
+get_data_from_server.py
+recog_data

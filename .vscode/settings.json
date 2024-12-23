@@ -1,4 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "cSpell.enabledFileTypes": {
+        "plaintext": false
+    }
 }
