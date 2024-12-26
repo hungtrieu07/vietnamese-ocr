@@ -1,15 +1,16 @@
-from shutil import rmtree
-import traceback
+import os
+os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+
+from pathlib import Path
+# from shutil import rmtree
 from PIL import Image
 import fitz  # PyMuPDF
-import os
 from paddleocr import PaddleOCR
-from sympy import use
-from torch import device
 from vietocr.tool.predictor import Predictor
 from vietocr.tool.config import Cfg
 import cv2
 import numpy as np
+import json
 
 def init_ocr_models():
     try:
@@ -25,11 +26,17 @@ def init_ocr_models():
         
         return paddle_ocr, viet_ocr
     except Exception as e:
-        import traceback; traceback.print_exc();
+        import traceback
+        traceback.print_exc()
         print(f"Error initializing OCR models: {e}")
+        return None, None
+
 
 def process_image_with_ocr(image_path, paddle_ocr, viet_ocr):
     try:
+        obj = {}
+        obj['path'] = image_path
+        obj['boxes'] = []
         # Read image
         image = cv2.imread(image_path)
         image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -45,6 +52,7 @@ def process_image_with_ocr(image_path, paddle_ocr, viet_ocr):
         # Recognition using VietOCR
         for box in boxes:
             try:
+                box_ = {}
                 # Get coordinates and crop image
                 points = np.array(box).astype(np.int32)
                 x_min, y_min = points.min(axis=0)
@@ -57,23 +65,25 @@ def process_image_with_ocr(image_path, paddle_ocr, viet_ocr):
                 # Recognize text
                 text = viet_ocr.predict(crop_pil)
                 text_results.append((box, text))
+                box_['bbox'] = [float(x_min), float(y_min), float(x_max), float(y_max)]
+                box_['text'] = text
+                obj['boxes'].append(box_)
             except Exception as e:
                 print(f"Error processing box: {e}")
                 continue
-        
-        return text_results
+        return text_results, obj
     except Exception as e:
         import traceback; traceback.print_exc();
         print(f"Error processing image with OCR: {e}")
 
-def pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=2, zoom_y=2):
+def pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=2, zoom_y=2, paddle_ocr=None, viet_ocr=None):
     try:
-        # Create output folder if it doesn't exist
-        rmtree(output_folder, ignore_errors=True)
-        os.makedirs(output_folder, exist_ok=True)
+        file_obj = []
         
-        # Initialize OCR models
-        paddle_ocr, viet_ocr = init_ocr_models()
+        pdf_basename = Path(pdf_path).stem
+        
+        # Create output folder if it doesn't exist
+        os.makedirs(output_folder, exist_ok=True)
         
         # Open the PDF file
         pdf_document = fitz.open(pdf_path)
@@ -88,24 +98,42 @@ def pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=2, zoom_y=2):
             pix = page.get_pixmap(matrix=mat)
             
             # Save the image
-            image_path = f"{output_folder}/page_{page_num + 1}.png"
+            image_path = f"{output_folder}/{pdf_basename}_{page_num + 1}.png"
             pix.save(image_path)
             print(f"Saved {image_path}")
             
             # Perform OCR
-            text_results = process_image_with_ocr(image_path, paddle_ocr, viet_ocr)
+            text_results, obj_page = process_image_with_ocr(image_path, paddle_ocr, viet_ocr)
+            file_obj.append(obj_page)
             all_results[f"page_{page_num + 1}"] = text_results
             
             # Save OCR results
             with open(f"{output_folder}/page_{page_num + 1}_ocr.txt", 'w', encoding='utf-8') as f:
                 for _, text in text_results:
                     f.write(f"{text}\n")
+            with open(f"{output_folder}/{pdf_basename}.json", 'w', encoding='utf-8') as f:
+                json.dump(file_obj, f, ensure_ascii=False)
         return all_results
     except Exception as e:
         import traceback; traceback.print_exc();
         print(f"Error processing PDF to images and OCR: {e}")
 
 if __name__ == "__main__":
-    pdf_path = "test.pdf"
-    output_folder = "output"
-    results = pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=3, zoom_y=3)
+    # Initialize OCR models
+    paddle_ocr, viet_ocr = init_ocr_models()
+    if not paddle_ocr or not viet_ocr:
+        print("OCR models failed to initialize. Exiting.")
+        exit(1)
+    
+    # Continue with processing PDFs
+    for root, _, files in os.walk('samples_TNMT'):
+        for file in files:
+            pdf_path = os.path.join(root, file)
+            print(f"Processing: {pdf_path}")
+            output_folder = "output"
+            results = pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=3, zoom_y=3, paddle_ocr=paddle_ocr, viet_ocr=viet_ocr)
+
+        
+    # pdf_path = "samples_TNMT/85bbb9b6-98c0-4c0d-8837-87b76586a7b5_Signed.pdf"
+    # output_folder = "output"
+    # results = pdf_to_images_and_ocr(pdf_path, output_folder, zoom_x=3, zoom_y=3)
